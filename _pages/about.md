@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in Management Science and Engineering at Shanghai University of Finance and Economics, fortunately advised by Professor Pinyan Lu. Prior to this, I received my B.Sc. in Mathematics from Wuhan University in 2021. I am currently a visiting Ph.D. student at the University of Southern California, working with Professor Haipeng Luo. 
+I am a Ph.D. candidate in School of Computing and Artificial Intelligence at Shanghai University of Finance and Economics, fortunately advised by Professor Pinyan Lu. Prior to this, I received my B.Sc. in Mathematics from Wuhan University in 2021. I am currently a visiting Ph.D. student at the University of Southern California, working with Professor Haipeng Luo. 
 
 My research focuses on online learning in strategic environments, utilizing no-regret algorithms to analyze multi-agent interactions. I investigate theoretical convergence guarantees in games and apply these foundations to optimize efficiency in economic markets.
 
