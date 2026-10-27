@@ -19,7 +19,7 @@ redirect_from:
 
 I am a postdoctoral researcher at the National University of Singapore, working with Professor Vincent Y. F. Tan. I received my Ph.D. from the School of Computing and Artificial Intelligence at Shanghai University of Finance and Economics, fortunately advised by Professor Pinyan Lu. Prior to this, I received my B.Sc. in Mathematics from Wuhan University in 2021.
 
-My research focuses on online learning in strategic environments, utilizing no-regret algorithms to analyze multi-agent interactions. I investigate theoretical convergence guarantees in games and apply these foundations to optimize efficiency in economic markets.
+My research lies at the intersection of online learning, game theory, and optimization. I study no-regret learning dynamics in strategic, multi-agent environments. More recently, I have been working on the theoretical understanding of optimizers used in training large language models, such as Muon.
 
 
 # Working Papers
